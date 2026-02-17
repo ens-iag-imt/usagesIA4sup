@@ -21,7 +21,7 @@ Certains chercheurs se penchent sur la possibilité d’automatiser, et/ou de co
 Vous pouvez également : 
 
 * Vous intéresser aux pratiques conseillées aux étudiants pour mieux apprendre au travers du  [Guide de l'étudiant IA gén ](/docs/etu/)   
-* Développer vos **capacités d’interactions** avec les IA génératives. Le guide [INT: Interagir avec une IA générative](https://docs.numerique.gouv.fr/docs/5cbf0c50-8bb0-47ff-a05c-d2e3dac85af6/) constitue une première étape.   
+* Développer vos **capacités d’interactions** avec les IA génératives. Le guide [INT: Interagir avec une IA générative](/docs/int/) constitue une première étape.   
 * Et finalement, n’hésitez pas à **proposer vos propres usages**, soit en nous en faisant part pour que nous puissions les intégrer, soit en les partageant à un public plus large[^2]. L’exploration des usages pertinents reste effectivement une tâche collective à mener par notre communauté. 
 
 
