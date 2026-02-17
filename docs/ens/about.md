@@ -16,4 +16,3 @@ nav_order: 1
 
 *L’intention de ce guide est de vous permettre de mieux comprendre les enjeux des débats sur les avantages et les risques de ces technologies, de lever les doutes sur les usages pertinents, ou permis, de ces outils pour vous permettre d’en avoir un usage éclairé pour vous assister dans votre métier.* 
 
-Ce guide fait partie d’une collection de guides : n’hésitez pas à consulter le  [Catalogue des guides d'usage des IAgen](https://docs.google.com/document/d/1OJx3YL7OySLb0Pc58s4vslW-VmRuocufYbH8_gMRZvU/edit?tab=t.0#heading=h.rg7lklblz347) 

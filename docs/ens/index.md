@@ -9,7 +9,7 @@ nav_order: 1
 # pour un usage pédagogique de l’IA générative
 
 Document réalisé par le Groupe de Travail   
-IA générative de l’IMT
+IA générative et enseignement de l’IMT
 ![](/assets/images/GT-IAGen.png)
 
 Ce document est une version de travail.  
