@@ -17,4 +17,6 @@ Ce document est une version de travail.
 Vos propositions sont les bienvenues.
 
 Version 0.3 \- 10 février 2026   
-![](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png)
+
+
+<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png" width="88" height="31">

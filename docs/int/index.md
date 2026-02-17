@@ -16,5 +16,5 @@ IA générative et enseignement de l’IMT
 Ce document est une version de travail.  
 Vos propositions sont les bienvenues.
 
-Version 0.1 \- 12 févriernovembre 2025   
-![](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png)
+Version 0.1 \- 12 févriernovembre 2025  
+<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png" width="88" height="31"> 

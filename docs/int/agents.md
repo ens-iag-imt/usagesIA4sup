@@ -1,5 +1,5 @@
 ---
-title: construisez vos propsres agents
+title: Construisez vos propres agents
 layout: default
 parent: Interagir 
 nav_order: 3

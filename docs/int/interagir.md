@@ -128,7 +128,7 @@ Les techniques de [“prompt engineering”](https://www.promptingguide.ai/fr) v
 Une des premières interactions, peut également être de demander à l’IAg de suggérer une telle décomposition. Cette interaction pourra être renouvelée lorsque vous le souhaiterez nécessaire. A vous d‘évaluer cette décomposition pour construire le processus qui vous convient.   
 Les modèles les plus récents ont intégré cette démarche en proposant un mode dit de recherche approfondie (deep research), dans lequel l’IAg va d’abord affiner votre requête, vous proposer un plan de recherche, les effectuer, évaluer les résultats, générer un rapport avec des références correctes. Ce mode permet d’obtenir de meilleurs résultats, et de [rendre moins utiles les techniques](https://www.oneusefulthing.org/i/175771315/quick-tips) de “prompt engineering”. 
 
-![][image2]  
+![](https://substackcdn.com/image/fetch/$s_!FK2m!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F81d31041-6e92-40a7-878d-c1816535b5f0_2634x1208.png)  
 **Figure** : la recherche approfondie en 6 étapes (d’après [Deep Research with AI: 9 Ways to Get Started](https://wondertools.substack.com/p/deepresearch)) 
 
 ### Utilisez le bon modèle 

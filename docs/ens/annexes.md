@@ -77,7 +77,7 @@ Les recommandations actuelles font que l’IA générative n’est pas considér
 
 Voici un exemple tiré de la [recommandation de MLA](https://style.mla.org/citing-generative-ai-updated-revised/) :  
    
-![A digital illustration of two people standing on a beach and facing an ocean and a sky made up of colorful swirls.][https://d1oemxqau9vshd.cloudfront.net/app/uploads/sites/6/2024/09/DALL-E-Expressionist-Painting_9-23-24-768x768.png]  
+![A digital illustration of two people standing on a beach and facing an ocean and a sky made up of colorful swirls.](https://d1oemxqau9vshd.cloudfront.net/app/uploads/sites/6/2024/09/DALL-E-Expressionist-Painting_9-23-24-768x768.png)
 Fig. 1\. “Create an expressionist-style image of two people standing on a beach looking at the ocean” prompt, DALL-E, version 3, OpenAI, 23 Sept. 2024, chatgpt.com/share/66f1c3a3-3f90-8000-9750-82c57c4a6592.
 
 **Ressource**
