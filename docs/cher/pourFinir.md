@@ -17,6 +17,7 @@ A titre d’inspiration, vous pouvez consulter des banques d’exemples comme ce
 
 À titre d’exemple des [collègues de la HEP du Valais ont mené un processus complet de rédaction académique pour évaluer son potentiel par des étudiants](https://folia.unifr.ch/global/documents/332645).    
 Certains chercheurs se penchent sur la possibilité d’automatiser, et/ou de coproduire sa recherche avec des IA génératives, en suivant une approche basée sur des agents qui prennent en charge les différentes phases de la recherche et qui communiquent entre eux. Un exemple de cette approche peut être retrouvée dans la proposition de Schmidgall et al. (2025) au travers de son “[Agent Laboratory](https://agentlaboratory.github.io/)” ([article détaillé sur arxiv](https://arxiv.org/pdf/2501.04227) \- [dépôt sur github](https://github.com/SamuelSchmidgall/AgentLaboratory) ). 
+Pour une approche automatisée, voir [The AI scientist](https://arxiv.org/abs/2408.06292).
 
 Vous pouvez également : 
 
