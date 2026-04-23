@@ -11,6 +11,7 @@ L’essor des IAg repose la question du contrat pédagogique passé entre les en
 
 Le rôle de l’enseignant est donc de proposer un cadre pédagogique clair et aussi d’accompagner les étudiants dans leurs apprentissages. De fait, de nombreux étudiants ont développé des usages pertinents, mais parce que ces usages ne sont pas toujours reconnus et partagés, certains se trouvent désavantagés, voire démunis. De plus, si les usages autorisés ne sont pas explicités, les étudiants ne savent pas si leurs usages sont considérés comme pertinents, ou comme une triche. L’information et la formation des étudiants ne peuvent qu'être bénéfiques.
 
+
 Comme nous allons le voir, l’usage des IAg peut varier suivant les cours, voir les objectifs précis d’une activité. Il est donc important de repréciser les règles qui prévalent dans chaque cours (voire dans chaque activité) et de les partager de manière explicite avec vos étudiants (et le reste de l’équipe pédagogique), non seulement à l’oral, mais aussi de manière écrite. 
 
 ## Quelles consignes donner aux étudiants ?  
@@ -35,8 +36,12 @@ Certaines universités (notamment québécoises) proposent des pictogrammes, ou 
 
 * [Déclaration et autorisation d’utilisation des niveaux de l’intelligence artificielle générative](https://www.uqac.ca/ressourcespedago/iag-declaration/) de l’UQAC  
 * [Balises d’utilisation des outils d’IAg](https://www.usherbrooke.ca/ssf/enseignement/intelligence-artificielle-ia/outils/balises-dutilisation-des-outils-diag) de l’université de Sherbrooke (UDS)
+* [Cadre pour un usage transparent des IAg par EDUCAUSE](https://er.educause.edu/articles/2026/3/from-prompt-to-practice-a-framework-for-transparent-genai-use-in-higher-education)
 
 **Précisez** si et **comment** les étudiants doivent **déclarer** leur usage des IAg. Cela peut se faire au travers d’une section dédiée dans un rapport, ou au travers d’une déclaration jointe à leur travail. Des déclarations types existent : voir celle de [KU Leuven](https://www.kuleuven.be/onderwijs/learninglab/ondersteuning/genai/documenten/20250528-aj2526-genai-code-of-conduct-en.docx) (en anglais), ou celles de  [l’UDS](https://zenodo.org/records/14510665/files/2_form_declaration_usages_IAg_SSF_UdeS.docx?download=1), disponible dans un [kit complet d’usage](https://zenodo.org/records/14510665)). 
+
+En tant qu'enseignant, vous êtes aussi garants de l'**intégrité scientifique**. L'assocation EDUCAUSE recommande donc dans un souci de transparence et de responsabilité éthique que les enseignants documentent sur les même bases leurs propres productions. Ils insistent également sur l'intérêt de conserver le contenu produits par les IA, d'en gérer l'accès comme une documentation à part entière pour en garantir la tracabilité et la vérification, et d'en donner l'accès dans la mesure du possible. 
+
 
 Au niveau de votre formation, ou de votre établissement, utilisez une démarche commune en proposant des consignes et des procédures de déclaration type. Cela aidera les enseignants à préciser les modalités souhaitées et les étudiants à intégrer et respecter les consignes données. 
 
