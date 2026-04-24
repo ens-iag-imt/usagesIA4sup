@@ -4,12 +4,12 @@ layout: default
 nav_order: 1
 ---
 
-# Guide “Interagir avec une IA générative”  pour tous 
+# Guide “Interagir avec une IA générative” pour tous et toutes
 
 ## Utiliser l’IA générative de manière efficace et éthique dans l’enseignement supérieur 
 
 
-Document réalisé par le Groupe de Travail   
+Document réalisé par le Groupe de travail   
 IA générative et enseignement de l’IMT
 ![](/assets/images/GT-IAGen.png)
 
