@@ -4,9 +4,9 @@ layout: default
 parent: Étudiant
 nav_order: 3
 --- 
-# Des méthodes pour utiliser une IA générative comme compagnon 
+# Des méthodes pour utiliser une IA générative comme partenaire
 
-Les IA génératives étant des outils “à tout faire”, leurs usages sont infinis. Après quelques années d’utilisation, les cas d’usages se sont multipliés. Les propositions issues des étudiants s’avèrent d’ailleurs plus variées que celles imaginées par les enseignants. 
+Les IA génératives étant des outils “à tout faire”, leurs usages sont infinis. Après quelques années d’utilisation, les cas d’usages se sont multipliés. Les propositions issues des étudiantes et étudiants s’avèrent d’ailleurs plus variées que celles imaginées par le corps enseignant. 
 
 Des tendances ressortent toutefois, et pour démarrer, il est intéressant de s’essayer avec quelques exemples et de voir ceux qui nous facilitent les apprentissages. Nous commencerons par une courte introduction sur comment mener une conversation avec une IA générative, appelée aussi art du prompt ou “prompt engineering”.
 
@@ -19,18 +19,18 @@ Pour obtenir les informations pertinentes, il est utile de préciser au début d
 * le contexte : dans quel cadre la discussion démarre-t-elle ? quels apprentissages sont visés ? à quel niveau ? Que vise-t-on comme résultat ?  
 * les informations d’entrée : Il est souvent possible de joindre des documents à titre de ressource.  
 * le format de réponse : une réponse courte, détaillée ? avec quel niveau de langage ? comme un professeur, un collègue, un enfant, … ?   
-* un rôle : étudiant en 2ème année d’école d'ingénieur ou accompagnateur d’étudiant…   
+* un rôle : élève en 2e année d’école d'ingénieur ou accompagnateur d’étudiant…   
 * les questions de l’IA par rapport à la demande : demander à l’IA de vous poser des questions nécessaires à une production d’une réponse plus pertinente.
 
 Vous pouvez commencer simplement et préciser au travers de la conversation. Plus vous serez précis, meilleure sera la réponse. 
 
 Pour aller plus loin, vous pouvez également préciser le mode de raisonnement que vous attendez, en précisant la structure du raisonnement (technique dite du *meta-prompt*), et là aussi interagir pour construire cette structure. 
 
-Pour progresser dans votre pratique, discutez-en avec vos pairs et vos enseignants, à échanger vos idées, à consulter des informations complémentaires [comme ce guide](https://www.promptingguide.ai/fr), ou même à demander à un agent conversationnel. 
+Pour progresser dans votre pratique, discutez-en avec vos pairs et vos enseignantes ou enseignants, à échanger vos idées, à consulter des informations complémentaires [comme ce guide](https://www.promptingguide.ai/fr), ou même à demander à un agent conversationnel. 
 
 ## Usages stratégiques
 
-Nous vous proposons ici de nombreux exemples de prompt permettant d’illustrer différentes assistances pertinentes qui suivent les étapes d’un travail. Ils sont issus soit de listes publiées, soit d’exemples proposés par des IA génératives, soit des retours directs d’étudiants. Nous les avons organisés autour de différentes activités classiques d’un apprentissage en école d’ingénieur, ou plus généralement dans l’enseignement supérieur, en nous basant sur les principes de base issus des sciences cognitives[^1]. 
+Nous vous proposons ici de nombreux exemples de prompt permettant d’illustrer différentes assistances pertinentes qui suivent les étapes d’un travail. Ils sont issus soit de listes publiées, soit d’exemples proposés par des IA génératives, soit des retours directs d’étudiantes et étudiants. Nous les avons organisés autour de différentes activités classiques d’un apprentissage en école d’ingénieur, ou plus généralement dans l’enseignement supérieur, en nous basant sur les principes de base issus des sciences cognitives[^1]. 
 
 ### Se mettre au travail et y rester 
 
@@ -99,12 +99,12 @@ Voir les exemples dans la section suivante \- Améliorer son travail \- Élargir
   Identifier les concepts clés d’un sujet  
   Obtenir des explications sur des théories complexes  
 * **Trouver des sources**  
-  « Fournis une liste complète d'articles de revues à comité de lecture de premier plan sur \[sujet\]. Indique le titre, les auteurs, la date et le lien vers l'article complet, puis résume les principaux résultats et leur pertinence pour le sujet. »  
+  « Fournis une liste complète d'articles de revues à comité de lecture de premier plan sur \[sujet\]. Indique le titre, les auteurs et autrices, la date et le lien vers l'article complet, puis résume les principaux résultats et leur pertinence pour le sujet. »  
 * **Améliorer son travail**  
   « Je souhaite tester ma thèse avant de continuer à écrire. Suggérez les points de vue divergents et les failles de ma logique. »  
   « Fais toi l’avocat du diable et critique mes arguments. Propose-moi un point de vue opposé. »  
 * **Élargir son point de vue**  
-  « Je souhaite examiner plusieurs points de vue. Trouve trois experts aux points de vue différents et compare leurs opinions. »  
+  « Je souhaite examiner plusieurs points de vue. Trouve trois expertes et experts aux points de vue différents et compare leurs opinions. »  
 * **Respect des formes**   
   « Cite ce site web au format APA »  
   « Exporte ce tableau de données au format JSON »
@@ -120,13 +120,13 @@ Voir les exemples dans la section suivante \- Améliorer son travail \- Élargir
 ### Travail en groupe[^2] 
 
 * **Se coordonner et s’organiser**  
-  "Nous sommes 4 étudiants, nous avons 6 semaines pour \[objectif\]. Propose une méthodologie de travail et un calendrier avec jalons"  
+  "Nous sommes 4 étudiantes et étudiants, nous avons 6 semaines pour \[objectif\]. Propose une méthodologie de travail et un calendrier avec jalons"  
   "Génère un modèle de charte d'équipe incluant les règles de communication, les responsabilités et la gestion des conflits"  
   "Notre équipe est multiculturelle. Quels points d'attention pour une collaboration harmonieuse ?"  
   "Crée un ordre du jour structuré pour une réunion d'1h sur \[sujet\]"   
   Après une prise de notes collaborative : "Voici nos notes de réunion \[notes\]. Extrais : 1\) Les décisions prises 2\) Les actions avec responsables et deadlines 3\) Les points à clarifier"  
 * **Harmoniser les contributions**  
-  "Voici 4 sections écrites par différentes personnes \[textes\]. Sans changer le fond, aide-nous à harmoniser le style tout en conservant les idées de chacun"  
+  "Voici 4 sections écrites par différentes personnes \[textes\]. Sans changer le fond, aide-nous à harmoniser le style tout en conservant les idées de chacun et chacune"  
   "Identifie les redondances et les contradictions dans ces contributions"  
   "Propose des transitions fluides entre ces sections"  
 * **Gérer les conflits**   
