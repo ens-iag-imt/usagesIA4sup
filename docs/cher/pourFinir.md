@@ -6,22 +6,22 @@ nav_order: 6
 ---
 
 # Conclusion
-Ce guide ne suggère pas qu'un étudiant ou un chercheur doive utiliser les outils d’IA génératives, mais rappelle qu'il doit faire preuve d'esprit critique et de rigueur scientifique s'il choisit de les utiliser. Il présente quelques exemples d'utilisation des outils, mais ne constitue en aucun cas une recommandation d'un outil spécifique, ni de l'utilisation d’IA générative dans la recherche en général. La recherche est une activité humaine et la responsabilité finale de tout résultat incombe au chercheur.
+Ce guide ne suggère de recourir aux outils d’IA génératives, mais rappelle la nécessité de faire preuve d'esprit critique et de rigueur scientifique en cas d'utilisation. Il présente quelques exemples d'utilisation des outils, mais ne constitue en aucun cas une recommandation d'un outil spécifique, ni de l'utilisation d’IA générative dans la recherche en général. La recherche est une activité humaine et la responsabilité finale de tout résultat incombe au chercheur ou à la chercheuse.
 
-L'IA générative est un outil qui peut aider les chercheurs à générer de nouvelles idées, à définir des sujets de recherche, à rédiger des résumés et à réaliser diverses autres tâches académiques. Les outils et les pratiques évoluent et s'adaptent rapidement. L'IA générative est également largement utilisée pour effectuer des tâches répétitives et fastidieuses, comme la synthèse de textes volumineux et l'identification de conclusions clés de la littérature.
+L'IA générative est un outil qui peut aider à générer de nouvelles idées, à définir des sujets de recherche, à rédiger des résumés et à réaliser diverses autres tâches académiques. Les outils et les pratiques évoluent et s'adaptent rapidement. L'IA générative est également largement utilisée pour effectuer des tâches répétitives et fastidieuses, comme la synthèse de textes volumineux et l'identification de conclusions clés de la littérature.
 
 L’usage de ces outils posent néanmoins de nombreuses questions dont la communauté scientifique s’est emparée. Le respect des principes de l’intégrité scientifique pose un cadre assurant l’utilisation éthique de ces technologies pour une recherche de qualité, dans lequel le chercheur garde le contrôle de ses travaux. 
 
 # Pour aller plus loin 
-A titre d’inspiration, vous pouvez consulter des banques d’exemples comme celle proposée par chatGPT : [Chats pour les scientifiques](https://chatgpt.com/fr-FR/use-cases/scientists).
+À titre d’inspiration, vous pouvez consulter des banques d’exemples comme celle proposée par chatGPT : [Chats pour les scientifiques](https://chatgpt.com/fr-FR/use-cases/scientists).
 
-À titre d’exemple des [collègues de la HEP du Valais ont mené un processus complet de rédaction académique pour évaluer son potentiel par des étudiants](https://folia.unifr.ch/global/documents/332645).    
-Certains chercheurs se penchent sur la possibilité d’automatiser, et/ou de coproduire sa recherche avec des IA génératives, en suivant une approche basée sur des agents qui prennent en charge les différentes phases de la recherche et qui communiquent entre eux. Un exemple de cette approche peut être retrouvée dans la proposition de Schmidgall et al. (2025) au travers de son “[Agent Laboratory](https://agentlaboratory.github.io/)” ([article détaillé sur arxiv](https://arxiv.org/pdf/2501.04227) \- [dépôt sur github](https://github.com/SamuelSchmidgall/AgentLaboratory) ). 
+À titre d’exemple des [collègues de la HEP du Valais ont mené un processus complet de rédaction académique pour évaluer son potentiel par des étudiantes et étudiants](https://folia.unifr.ch/global/documents/332645).    
+Certains chercheurs et chercheuses se penchent sur la possibilité d’automatiser, et/ou de coproduire sa recherche avec des IA génératives, en suivant une approche basée sur des agents qui prennent en charge les différentes phases de la recherche et qui communiquent entre eux. Un exemple de cette approche peut être retrouvée dans la proposition de Schmidgall et al. (2025) au travers de son “[Agent Laboratory](https://agentlaboratory.github.io/)” ([article détaillé sur arxiv](https://arxiv.org/pdf/2501.04227) \- [dépôt sur github](https://github.com/SamuelSchmidgall/AgentLaboratory) ). 
 Pour une approche automatisée, voir [The AI scientist](https://arxiv.org/abs/2408.06292).
 
 Vous pouvez également : 
 
-* Vous intéresser aux pratiques conseillées aux étudiants pour mieux apprendre au travers du  [Guide de l'étudiant IA gén ](/docs/etu/)   
+* Vous intéresser aux pratiques conseillées aux étudiantes et étudiants pour mieux apprendre au travers du  [Guide de l'étudiant et étudiant IA gén ](/docs/etu/)   
 * Développer vos **capacités d’interactions** avec les IA génératives. Le guide [INT: Interagir avec une IA générative](/docs/int/) constitue une première étape.   
 * Et finalement, n’hésitez pas à **proposer vos propres usages**, soit en nous en faisant part pour que nous puissions les intégrer, soit en les partageant à un public plus large[^2]. L’exploration des usages pertinents reste effectivement une tâche collective à mener par notre communauté. 
 
