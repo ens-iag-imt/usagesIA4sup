@@ -29,8 +29,8 @@ Il est également important de souligner les risques induits par les outils bas�
 * **Génération de contenus inadéquats**. Les réponses générées ou le comportement de ces outils peuvent être inadéquats.  
 * **Éthique et droits d’auteur**. L’entraînement de ces outils est souvent basé sur des œuvres protégées et les autorisations pour la phase d’entraînement n’ont souvent pas été clairement obtenues. De plus, les défauts d’explicabilité et de documentation indiqués ci-dessus ne permettent pas, pour un résultat donné, d’identifier si des contenus de ce type ont été utilisés.  
 * **Atteinte à la confidentialité des données**. Les outils ne garantissent pas tous la confidentialité des questions posées ni des informations sur l’utilisateur·rice. Intégrer des données personnelles, confidentielles ou sensibles dans un prompt peut donc être risqué.   
-* **Reproduction et amplification de discriminations et de stéréotypes**. Les biais statistiques présents dans les données d’entraînement peuvent renforcer les stéréotypes et les discriminations traversant déjà notre société. La supervision de ces modèles par un nombre réduit d’opérateurs privés (situés pour la plupart sur la côte Ouest des Etats-Unis) contribue à une homogénéisation culturelle au détriment de la diversité et de la richesse de cultures locales.   
-* **Renforcement des fractures numériques**. L'utilisation de ces outils nécessite certaines compétences numériques. Une généralisation de tels outils peut renforcer la fracture numérique entre les citoyens.   
+* **Reproduction et amplification de discriminations et de stéréotypes**. Les biais statistiques présents dans les données d’entraînement peuvent renforcer les stéréotypes et les discriminations traversant déjà notre société. La supervision de ces modèles par un nombre réduit d’opérateurs privés (situés pour la plupart sur la côte Ouest des États-Unis) contribue à une homogénéisation culturelle au détriment de la diversité et de la richesse de cultures locales.   
+* **Renforcement des fractures numériques**. L'utilisation de ces outils nécessite certaines compétences numériques. Une généralisation de tels outils peut renforcer la fracture numérique entre les citoyennes et citoyens.   
 * **Concentration des acteurs de l’IA générative**. Les coûts élevés de développement des outils technologiques pourraient concentrer le pouvoir entre les mains de quelques grandes entreprises d'intelligence artificielle, influençant ainsi les prix, les technologies, et les orientations de recherche. Ce phénomène pourrait également biaiser les normes techniques, éthiques et réglementaires, augmentant les risques d'abus de pouvoir.   
 * **Coût environnemental**. Le bilan carbone de ces outils est actuellement déplorable. En effet, la puissance de calcul nécessaire à l’entraînement des modèles est très grande et proportionnelle à leur taille (qui a tendance à augmenter exponentiellement). L’utilisation d’un modèle pour répondre à une question occasionne lui aussi un coût énergétique. 
 
@@ -45,7 +45,7 @@ Des utilisations déviantes peuvent conduire au risques suivants :
 Quelques principes de base permettent de s’inscrire dans cette perspective d’accompagnement / partenariat et de limiter les risques liés aux usages des IA génératives cités plus haut : 
 
 * **Responsabilité** :   
-  * **Autorisation**. N’utilisez une IA générative pour une activité que si cela vous est autorisé. Si nécessaire, vérifiez quelle est la politique de votre établissement, et les consignes de votre enseignant.  
+  * **Autorisation**. N’utilisez une IA générative pour une activité que si cela vous est autorisé. Si nécessaire, vérifiez quelle est la politique de votre établissement, et les consignes de votre enseignant ou enseignante.  
   * **Vérification**. Tout document issu d’une IA générative doit faire l’objet d’une relecture critique et attentive pour éviter les contenus inadéquats et les biais. Les propositions, les références, les faits énoncés doivent être vérifiés.  
   * **Protection des données.** Transmettre des données personnelles, des documents professionnels, *a fortiori* confidentiels à une IA générative qui pourrait les utiliser est interdit. Plus de détails en annexe [citer et data](/docs/etu/citerEtData.md)   
 * **Transparence** :   
@@ -54,7 +54,7 @@ Quelques principes de base permettent de s’inscrire dans cette perspective d�
 * **Intégrité académique** **et scientifique :**  
   * L’IA générative ne doit pas compromettre l'authenticité du travail académique. Dans tous les cas, vous devez être en mesure d’expliquer chaque étape du travail et de justifier toutes les notions utilisées.  
 * **Développement de compétences :**   
-  * L'IA générative doit accompagner, non remplacer, l'apprentissage humain. Les outils d’IAG doivent être vus comme des assistants dans les activités universitaires et non comme un substitut au travail et à l’implication de chacun.  
+  * L'IA générative doit accompagner, non remplacer, l'apprentissage humain. Les outils d’IAg doivent être vus comme des assistants dans les activités universitaires et non comme un substitut au travail et à l’implication de chacun.  
   * Leur utilisation doit être envisagée comme un encouragement au développement de l’esprit d’analyse, de synthèse et de critique.   
 * **Maîtrise de l’impact :**  
   * Les IA génératives consomment beaucoup de ressources. Limitez son usage à ce qui est réellement nécessaire. Posez-vous la question si une autre méthode vous permettrait d’apprendre aussi bien, voire mieux.
