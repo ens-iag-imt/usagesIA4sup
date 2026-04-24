@@ -4,12 +4,12 @@ layout: default
 nav_order: 1
 ---
 
-# Guide du chercheur
+# Guide pour la recherche
 
 ## Pour une utilisation éthique et efficace des IA Génératives au service de la recherche
 
 
-Document réalisé par le Groupe de Travail   
+Document réalisé par le Groupe de travail   
 IA générative et enseignement de l’IMT
 ![](/assets/images/GT-IAGen.png)
 
