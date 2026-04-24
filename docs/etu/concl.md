@@ -13,7 +13,7 @@ Trois forces alimentent l'illusion de l'apprentissage :
 
 * *Biais de fluidité*. Relire, surligner ou parcourir les résumés de l'IA rend le contenu plus clair sans renforcer les traces mnésiques ni les schémas de problèmes (Dunlosky et al., 2013).  
 * *Performance ≠ apprentissage*. Les performances immédiates pendant les études (par exemple, la gestion rapide des exercices bloqués) peuvent augmenter, même si la rétention et le transfert à long terme diminuent.  
-* *Soutiens à l’apprentissage trop important*. Les exemples concrets et les conseils étape par étape aident les novices, mais si le soutien n'est pas réduit, les apprenants ne développent pas leur capacité à résoudre des problèmes de manière autonome.
+* *Soutiens à l’apprentissage trop important*. Les exemples concrets et les conseils étape par étape aident les novices, mais si le soutien n'est pas réduit, les apprenantes et apprenants ne développent pas leur capacité à résoudre des problèmes de manière autonome.
 
 L'IA peut amplifier ces pièges : elle excelle à donner l'impression que les choses sont faciles : résumés soignés, code parfait, schémas fluides. Si nous nous limitons à ces résultats, nous externalisons le travail mental qui construit des connaissances durables.
 
@@ -33,7 +33,7 @@ Voici un test de 60 secondes pour déceler l'illusion de l'apprentissage lorsqu�
 
 # Et après ?  
 
-* Si vous êtes amenés à effectuer des activités de recherche durant votre formation, vous pouvez consulter le [Guide du chercheur IAGén ](https://docs.google.com/document/d/16Wwl4b4UpR_2GzyC3d2a1-t8__asZC8TCQm9Da19xmI/edit?tab=t.0#heading=h.e2v1eybiqd64)   
+* Si vous deviez effectuer des activités de recherche durant votre formation, vous pouvez consulter le [Guide pour la recherche ](https://docs.google.com/document/d/16Wwl4b4UpR_2GzyC3d2a1-t8__asZC8TCQm9Da19xmI/edit?tab=t.0#heading=h.e2v1eybiqd64)   
 * Vous pouvez également développer vos **capacités d’interactions** avec les IA génératives. Le guide [INT: Interagir avec une IA générative](https://docs.google.com/document/d/11bkglsKqAmWBSgD53RXsCjbi-MXkjBKXXEOVkpeGYNA/edit?tab=t.0#heading=h.u1lav9cgm7sj) constitue une première étape. 
 
 [^3]:  Cette section est une transcription des réflexions de Philippa Hardman, voir notamment cet article : [ChatGPT: the world's most influential teacher](https://drphilippahardman.substack.com/p/chatgpt-the-worlds-most-popular-teacher)
