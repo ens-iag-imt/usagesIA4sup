@@ -4,11 +4,11 @@ layout: default
 nav_order: 1
 ---
 
-# Guide de l’étudiant
+# Guide de l’étudiant et de l'étudiante
 
 ## Réussir ses études avec l’IA générative comme compagnon
 
-Document réalisé par le Groupe de Travail   
+Document réalisé par le Groupe de travail   
 IA générative et enseignement de l’IMT
 ![](/assets/images/GT-IAGen.png)
 
