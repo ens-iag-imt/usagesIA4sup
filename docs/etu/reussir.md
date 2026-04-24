@@ -9,11 +9,11 @@ nav_order: 2
 
 Il est possible de considérer que l’objectif des études est de réussir les examens, mais ceux-ci sont avant tout pour démontrer l’acquisition de compétences. L’IA générative peut **vous accompagner dans vos apprentissages, et non à se substituer à vous pour réaliser votre travail**. Il faut faire pour apprendre.   
 Les IA génératives ne se substituent pas non plus à l’apprentissage social. Profitez au contraire de ce sujet pour échanger avec vos pairs sur vos expériences.   
-Vous n’êtes pas obligés d’utiliser l’IA générative pour réussir vos études. Si vous pensez qu’elle peut vous aider, ce guide vise à vous préciser ce qui est possible ou non, et à vous proposer des exemples pour vous aider dans la réussite de vos études. 
+Vous n’avez pas à utiliser l’IA générative pour réussir vos études. Si vous pensez qu’elle peut vous aider, ce guide vise à vous préciser ce qui est possible ou non, et à vous proposer des exemples pour vous aider dans la réussite de vos études. 
 
 ## Principes de base
 
-Voici un tableau qui résume ce qui est acceptable ou non dans l’usage des IA génératives. Pour plus de détails sur les principes complets, consulter l’annexe  Attention, ce tableau reprend le consensus issu de nombreux établissements, cela peut varier dans votre propre établissement.   
+Voici un tableau qui résume ce qui est acceptable ou non dans l’usage des IA génératives. Pour plus de détails sur les principes complets, consulter l’annexe.  Attention, ce tableau reprend le consensus issu de nombreux établissements, cela peut varier dans votre propre établissement.   
   
 
 | FAIRE | Ces utilisations de l'IA générative à l'université sont  acceptables | NE PAS FAIRE | Ces utilisations  de l'IA générative à l'université sont inacceptables |
