@@ -52,10 +52,10 @@ Proposé par Jean-Marie Gilliot, IMT Atlantique, une école de l’IMT, co-rédi
 licence CC-by  
 Liste des contributeurs : 
 
-* Jean-Marie Gilliot   
-* Céline Benoît Grousson   
-* Marine Karmann   
-* Xavier Lagrange  
+* Jean-Marie Gilliot - IMT Atlantique  
+* Céline Benoît Grousson   - IMT Atlantique
+* Marine Karmann   - IMT Atlantique
+* Xavier Lagrange  - IMT Atlantique
 * 
 
 Ce document se veut être une proposition collective de guide pouvant être spécialisée dans les différents établissements de l’IMT et au-delà de l’ESR. N'hésitez donc pas à faire une copie et à préciser les contacts , pour des échanges au sein de votre établissement :   
