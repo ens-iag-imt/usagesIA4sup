@@ -33,7 +33,7 @@ Voici un test de 60 secondes pour déceler l'illusion de l'apprentissage lorsqu�
 
 # Et après ?  
 
-* Si vous deviez effectuer des activités de recherche durant votre formation, vous pouvez consulter le [Guide pour la recherche ](https://docs.google.com/document/d/16Wwl4b4UpR_2GzyC3d2a1-t8__asZC8TCQm9Da19xmI/edit?tab=t.0#heading=h.e2v1eybiqd64)   
-* Vous pouvez également développer vos **capacités d’interactions** avec les IA génératives. Le guide [INT: Interagir avec une IA générative](https://docs.google.com/document/d/11bkglsKqAmWBSgD53RXsCjbi-MXkjBKXXEOVkpeGYNA/edit?tab=t.0#heading=h.u1lav9cgm7sj) constitue une première étape. 
+* Si vous deviez effectuer des activités de recherche durant votre formation, vous pouvez consulter le [Guide pour la recherche ](https://ens-iag-imt.github.io/usagesIA4sup/docs/cher/)   
+* Vous pouvez également développer vos **capacités d’interactions** avec les IA génératives. Le guide [INT: Interagir avec une IA générative](https://ens-iag-imt.github.io/usagesIA4sup/docs/int/) constitue une première étape. 
 
 [^3]:  Cette section est une transcription des réflexions de Philippa Hardman, voir notamment cet article : [ChatGPT: the world's most influential teacher](https://drphilippahardman.substack.com/p/chatgpt-the-worlds-most-popular-teacher)
