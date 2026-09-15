@@ -5,7 +5,7 @@ parent: Étudiant
 nav_order: 6
 ---
 
-# Dans votre établissement
+# Dans votre établissement de l'IMT 
 
 Une charte, un cadre d’usage ou une modification du règlement intérieur, qu’elle soit adoptée ou en cours d’adoption reprend sans doute les principes précédents. Renseignez-vous pour connaître les règles spécifiques qui s’appliquent à votre formation. L’enseignant responsable d’un cours doit pouvoir vous renseigner sur les consignes qui s’appliquent dans son cadre. 
 
@@ -22,7 +22,7 @@ Il est également possible qu'un espace d'échanges soit prévu pour avancer dan
 
 Glossaire : voir [Glossaire IA générative](https://docs.google.com/document/d/156GyNNCYLdo8AWD5GGPY5tlUsvSY4Af1sBZwd4tL1D4/edit?usp=sharing)
 
-# Ressources  
+# Ressources bibliographiques
 
 * [Artificial Intelligence for Teaching and Learning](https://cilt.uct.ac.za/teaching-resources/artificial-intelligence-teaching-learning) \- University of Cape Town   
 * [Utilisation responsable de l’IA générative](https://oer.uclouvain.be/jspui/bitstream/20.500.12279/1079.2/1/IAGenerative_Groupe_de_Travail_UCLouvain_2024_06.pdf) \- rapport de l’UCLouvain   
@@ -45,7 +45,7 @@ Dans un premier temps, nous vous proposons pour cela :
 * Un [formulaire pour vos suggestions](https://grist.numerique.gouv.fr/o/docs/forms/shK19gimGvpXYBE5j1wvMQ/6 ) ;  
 * Un [salon de discussion dédié](https://tchap.gouv.fr/#/room/!kUVzpqXjFmgSJpSOWi:agent.education.tchap.gouv.fr?via=agent.education.tchap.gouv.fr) sur la messagerie Tchap 
 
-# Crédit  {#crédit}
+# Crédits  {#crédit}
 
 Proposé par Jean-Marie Gilliot, IMT Atlantique, une école de l’IMT, co-rédigé avec Céline Benoît Grousson et Marine Karmann.
 
@@ -59,6 +59,6 @@ Liste des contributeurs :
 * 
 
 Ce document se veut être une proposition collective de guide pouvant être spécialisée dans les différents établissements de l’IMT et au-delà de l’ESR. N'hésitez donc pas à faire une copie et à préciser les contacts , pour des échanges au sein de votre établissement :   
-**Contact :** \[Service pédagogique de votre université\]
+**Contact :** \[Service pédagogique de votre institution\]
 
 Merci également de nous remonter ce qui nous permettra d’améliorer le document partagé. 
