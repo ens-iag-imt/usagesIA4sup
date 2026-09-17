@@ -24,7 +24,7 @@ Pour obtenir les informations pertinentes, il est utile de préciser au début d
 
 Vous pouvez commencer simplement et préciser au travers de la conversation. Plus vous serez précis, meilleure sera la réponse. 
 
-Pour aller plus loin, vous pouvez également préciser le mode de raisonnement que vous attendez, en précisant la structure du raisonnement (technique dite du *meta-prompt*), et là aussi interagir pour construire cette structure. 
+Pour aller plus loin, vous pouvez préciser le mode de raisonnement que vous attendez, en précisant le processus du raisonnement pour guider l'IA. Vous pouvez également lui demander de proposer un tel processus (technique dite du *meta-prompt*), et là aussi interagir pour le co-construire et l'affiner. 
 
 Pour progresser dans votre pratique, discutez en avec vos pairs et vos enseignantes ou enseignants, en échangeant vos idées, en consultant des informations complémentaires [comme ce guide](https://www.promptingguide.ai/fr), ou même en demandant à un agent conversationnel. 
 
