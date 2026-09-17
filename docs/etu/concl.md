@@ -22,7 +22,7 @@ Voici un test de 60 secondes pour déceler l'illusion de l'apprentissage lorsqu�
 | 1 | Se rappeler sans indice | Fermez l'onglet. Sur une page blanche, notez les idées principales de mémoire : définitions, étapes et un exemple. *Pourquoi c'est important* : Si vous ne parvenez pas à les retrouver sans aide, vous avez probablement acquis de la fluidité, et non des connaissances | Oui/Non |
 | :---: | :---- | :---- | :---: |
 | 2 | Expliquer simplement | Donnez une explication étape par étape à un novice (ou à vous-même). Pas de jargon ; une analogie précise. *Pourquoi c'est important* : L'auto-explication révèle les lacunes et approfondit la compréhension | Oui/Non |
-| 3 | Choisir la méthode, pas seulement l’appliquer | Abordez un ensemble de problèmes variés et nommez d'abord la stratégie pour chaque problème.  *Importance* : L’entrelacement favorise la discrimination et le transfert. | Oui/Non |
+| 3 | Choisir la méthode, pas seulement l’appliquer | Abordez un ensemble de problèmes variés et nommez d'abord la stratégie pour chaque problème.  *Importance* : L’entrelacement des questions favorise l'apprentissage. | Oui/Non |
 | 4 | Exécuter sous contraintes | Effectuez une tâche chronométrée, basée sur une grille d’évaluation, qui correspond à la performance réelle (par exemple, une dissertation de 20 minutes ou un exercice type de codage), puis notez-la. *Importance :* Une évaluation authentique prédit les performances futures. | Oui/Non |
 | 5 | Réviser vos acquis  | Notez deux révisions espacées sur le calendrier (par exemple, \+2 jours, \+10 jours) et testez-vous à nouveau. *Importance* : Sans espacement, la rétention diminue, même si la journée s’est bien passée | Oui/Non |
 
