@@ -18,18 +18,18 @@ Voici un tableau qui résume ce qui est acceptable ou non dans l’usage des IA 
 
 | FAIRE | Ces utilisations de l'IA générative dans ses études sont acceptables | NE PAS FAIRE | Ces utilisations de l'IA générative dans ses études sont inacceptables |
 | :---: | :---- | :---: | :---- |
-| ✔ | Vérifier si l'A est autorisée pour l'activité à réaliser, et selon quelles modalités | x | Utiliser des outils d’IA lorsqu’ils sont spécifiquement interdits |
-| ✔ | Déclarer l'utilisation de l'IA en utilisant un style de citation approprié | x | Utiliser des outils d'IA sans le déclarer |
-| ✔ | Utiliser l'IA pour ébaucher un plan (sauf interdiction expresse) ou pour proposer des entraînements.  | x | Copier une production d'IA et la faire passer pour votre propre travail  (c’est une forme de plagiat) |
-| ✔ | Faire un remue-méninges ou demander des résumés d'informations complexes | x | Faire confiance aux résultats de l'IA sans effectuer de vérification critique des faits et des sources |
-| ✔ | Demander à un agent conversationnel de reformuler un concept difficile dans un langage plus simple | x | Partager des informations personnelles ou utiliser des documents protégés par des droits d'auteur dans une IA  |
+| ✔ | Vérifier si l'A est autorisée pour l'activité à réaliser, et selon quelles modalités | ❌ | Utiliser des outils d’IA lorsqu’ils sont spécifiquement interdits |
+| ✔ | Déclarer l'utilisation de l'IA en utilisant un style de citation approprié | ❌ | Utiliser des outils d'IA sans le déclarer |
+| ✔ | Utiliser l'IA pour ébaucher un plan (sauf interdiction expresse) ou pour proposer des entraînements.  | ❌ | Copier une production d'IA et la faire passer pour votre propre travail  (c’est une forme de plagiat) |
+| ✔ | Faire un remue-méninges ou demander des résumés d'informations complexes | ❌ | Faire confiance aux résultats de l'IA sans effectuer de vérification critique des faits et des sources |
+| ✔ | Demander à un agent conversationnel de reformuler un concept difficile dans un langage plus simple | ❌ | Partager des informations personnelles ou utiliser des documents protégés par des droits d'auteur dans une IA  |
 
 ## Quelques exemples d’IA génératives
 
 Les IA génératives proposées ici le sont à titre d’exemples. Ce sont des solutions grand public, qui ne sont pas validées par votre institution. Cela veut dire qu’elles peuvent y être interdites. Ces solutions proposent en général une version gratuite limitée.
 
 * De nombreux **agents conversationnels** (chatbot) généralistes existent.   
-  * Si [ChatGPT](https://chat.openai.com/auth/login) est le premier basé sur cette technologie proposé au grand public en novembre 2022, différentes alternatives, comme [Mistral](https://chat.mistral.ai/chat) (Europe), [Claude](https://claude.ai/), [Gemini](https://gemini.google.com/) (Google), [DeepSeek](https://chat.deepseek.com/) (Chine) existent, avec leurs spécificités. Le classement respectif de ces différents outils varie avec le temps. Les versions gratuites suffisent pour se faire une idée des potentialités de ces outils, mais un abonnement peut s’avérer nécessaire pour un usage plus régulier et de meilleurs résultats ;   
+  * Si [ChatGPT](https://chat.openai.com/auth/login) est le premier basé sur cette technologie proposé au grand public en novembre 2022, différentes alternatives, comme [Vibe](https://chat.mistral.ai/chat) (Mistral, Europe), [Claude](https://claude.ai/) (Anthropic, USA), [Gemini](https://gemini.google.com/) (Google, USA), [DeepSeek](https://chat.deepseek.com/) (Chine) existent, avec leurs spécificités. Le classement respectif de ces différents outils varie avec le temps. Les versions gratuites suffisent pour se faire une idée des potentialités de ces outils, mais un abonnement peut s’avérer nécessaire pour un usage plus régulier et de meilleurs résultats ;   
   * [Mistral](https://chat.mistral.ai/chat) est la solution française, plus respectueuse de l’environnement et des données, soutenue notamment par l’IMT ;  
   * [RAGaRenn](https://ragarenn.eskemm-numerique.fr/index.html) est un service souverain expérimental offrant un accès aux membres de l’enseignement supérieur, et des accès dédiés pour certains établissements, [dont l’IMT](https://ragarenn.eskemm-numerique.fr/sso/instance@imt/app/auth), qui comporte des modèles dédiés. Il utilise des modèles plus frugaux ;
 * [DeepL](https://www.deepl.com/fr/translator) est un service plus ancien (2017), mais spécialisé dans la traduction ;  
