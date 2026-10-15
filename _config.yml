@@ -1,6 +1,9 @@
 title: Usages IA4SUP
 description: Des ressources pour utiliser l'IA dans le cadre de la formation supérieure
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
 
 url: "https://jmgilliot.github.io/usagesIA4sup"
 repository: jmgilliot/usagesIA4sup
